@@ -1,0 +1,13 @@
+{
+  "domain": "labtarget",
+  "name": "Lab Target",
+  "codeowners": ["@chvancooten"],
+  "config_flow": true,
+  "documentation": "https://github.com/chvancooten/ha-marketplace-labtarget",
+  "integration_type": "service",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/chvancooten/ha-marketplace-labtarget/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "1.0.0"
+}
